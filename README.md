@@ -1,4 +1,4 @@
-![](github-metrics.svg)
+[![](github-metrics.svg)](#)
 
 <!--
 **dntsdnts/dntsdnts** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
