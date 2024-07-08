@@ -545,6 +545,9 @@
                                     <rect class="day" x="0" y="79" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
                                     <rect class="day" x="0" y="94" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
                                 </g>
+                                <g transform="translate(405, 0)">
+                                    <rect class="day" x="0" y="4" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
+                                </g>
                             </g>
                         </svg>
                     </section>
@@ -1273,7 +1276,7 @@ As summer turns to autumn, the colorful Rabbit House regulars return to serve up
                                 <div class="title">
                                     <span class="prefix">Great</span>
                                     developer
-                                    <span class="gh">ranked 2.08m out of 137m users</span>
+                                    <span class="gh">ranked 2.08m out of 140m users</span>
                                 </div>
                                 <div class="text">Published 26 public repositories</div>
                             </div>
@@ -1456,7 +1459,7 @@ As summer turns to autumn, the colorful Rabbit House regulars return to serve up
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Influencer
-                                    <span class="gh">ranked 189k out of 137m users</span>
+                                    <span class="gh">ranked 189k out of 140m users</span>
                                 </div>
                                 <div class="text">Followed by 65 users</div>
                             </div>
@@ -1690,7 +1693,7 @@ As summer turns to autumn, the colorful Rabbit House regulars return to serve up
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 8 Jul 2024, 08:19:50 (timezone Asia/Tokyo) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 8 Jul 2024, 10:24:10 (timezone Asia/Tokyo) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
